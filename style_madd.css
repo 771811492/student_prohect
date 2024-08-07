@@ -1,0 +1,143 @@
+body{
+    background-color:dodgerblue;
+    color: white;
+}
+
+.madd-left {
+ margin-top: 40px;
+ float: left;
+  background-color:  mediumblue;
+  width: 20%;
+  padding: 10px;
+}
+.madd-left h4{
+    text-align: center;
+}
+
+
+
+.madd-left .btn1{
+    padding: 5px 20px;
+    width: 60%;
+    background-color: cornsilk;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 25px;
+    font-size: 15px;  
+}
+.madd-left .btn1 a:hover{
+    color: blue;
+    text-decoration: none;
+}
+.madd-left .btn2{
+    background-color: peachpuff;
+    border-radius: 10px;
+}
+.madd-left .btn2 a:hover{
+    color: blue;
+    text-decoration: none; 
+}
+
+
+.madd-left input {
+    background-color: ivory;
+    height: 15px;
+    width: 90%;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.madd-left select {
+    background-color: lightgoldenrodyellow;
+    width: 65%;
+    border-radius: 10px;
+}
+
+.madd-left  .btn{
+    background-color: lightpink;
+    height: 20px;
+    
+}
+.madd-left .btnk{
+    background-color: moccasin;
+     margin-right: 5px; 
+     float: right;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center; 
+} 
+.madd-left  .btnk a{
+ background-color: moccasin;
+    text-decoration: none;
+}
+.madd-left .btnk a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+
+.madd-rihgt{
+    float: right;
+    width: 50%;
+}
+.madd-rihgt table{
+    margin-top: 20px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.madd-rihgt table .btn2{
+    background-color: red;
+    width: 30%;
+    margin-right: 5px;
+    float: right;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+.madd-rihgt table .btn2 a{
+ background-color: red;
+    text-decoration: none;
+}
+.madd-rihgt table .btn2 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.madd-rihgt table .btn1{
+    background-color: seashell;
+    width: 30%;
+    margin-right: 5px;
+    float: right;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+.madd-rihgt table .btn1 a{
+ background-color: seashell;
+    text-decoration: none;
+}
+.madd-rihgt table .btn1 a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.madd-rihgt .search input{
+   
+    margin-top: 30px;
+    width: 70%;
+    margin-bottom:20px ;
+    border-radius: 10px;
+}
+.madd-rihgt .search button{
+    
+    width:50px ;
+    margin-top: 20px;
+    border-radius: 10px;
+} 
+.madd-rihgt .search button a:hover{
+    color: red;
+    text-decoration: none; 
+}
+

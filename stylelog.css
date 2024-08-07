@@ -1,0 +1,73 @@
+body{
+
+    background-color: dodgerblue;
+    color: black;
+    } 
+    .main{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      
+       background-color: ;
+        background-size: cover;
+    }
+    .main h4{
+        float: inline-start;
+        color: cornsilk;
+        margin-top:20px;
+    }
+    .main #p a {
+       
+    color: white;
+    
+    }
+
+    .main input{
+        /*  */
+
+        display: inline-block;
+        padding: 5px 20px;
+        font-size: 14px;
+        text-align: center;
+        text-decoration: none;
+        width: 100%;
+        background-color:azure;
+        color: black;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    .main button{
+        /*  */
+
+        display: inline-block;
+        padding: 5px 20px;
+        font-size: 14px;
+        text-align: center;
+        text-decoration: none;
+        width: 100%;
+        background-color:lightyellow;
+        color: black;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    .main button a{
+        width: 100%;
+   
+        text-decoration: none;
+       
+    }
+    .main button a:hover{
+        width: 100%;
+        color: thistle ;
+        text-decoration: none;
+    }
+
+        
+    
+    
+    

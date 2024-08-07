@@ -1,0 +1,37 @@
+body{
+
+    background-color: dodgerblue;
+    color: white;
+    } 
+    .main{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      
+       background-color:dodgerblue;
+    }
+    .main h4{
+        float: inline-start;
+        color: black;
+        margin-top:20px;
+    }
+    .main button{
+      padding: 5px 20px;
+      width: 100%;
+      background-color: cornsilk;
+      color: black;
+      border-radius: 10px;
+      cursor: pointer;
+        } 
+        .main button a:hover{
+            background-color: yellowgreen;
+            text-decoration: none;
+        } 
+        /* .main button :active{
+            background-color: #3e8e41;
+        }
+         */
+    
+    
+    

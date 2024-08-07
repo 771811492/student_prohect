@@ -1,0 +1,162 @@
+
+body{
+    background-color:  dodgerblue;
+      background-size: cover;
+       color: white;
+   }
+   
+   
+   .student-left{
+     float: left;
+     background-color: mediumblue;
+     width: 25%;
+     padding: 10px;
+   
+   }
+   .student-left h4{
+      
+       text-align: center;
+   }
+   .student-left .btn1{
+       padding: 5px 20px;
+       width: 60%;
+       background-color: cornsilk;
+       color: black;
+       border-radius: 10px;
+       cursor: pointer;
+       height: 25px;
+       font-size: 15px;  
+   }
+   .student-left .btn1 a:hover{
+       color: red;
+       text-decoration: none;
+       
+   }
+   
+   .student-left .btnk{
+       background-color: moccasin;
+       /* margin-right: 5px; */
+       float: right;
+       border-radius: 10px;
+       text-decoration: none;
+       text-align: center;
+   }
+   .student-left  .btnk a{
+    background-color: moccasin;
+       text-decoration: none;
+   }
+   .student-left  .btnk a:hover{
+       color: white;
+       text-decoration: none;
+   }
+   
+   
+   
+   
+   .student-left input {
+       background-color: beige;
+       height: 15px;
+       width: 90%;
+       border-radius: 10px;
+   }
+   .student-left select {
+       background-color: bisque;
+       width: 60%;
+       border-radius: 10px;
+   }
+   
+   .student-left  .btn{
+       background-color: moccasin;
+       height: 20px; 
+       margin-right: 5px;
+       border-radius: 10px;
+       text-decoration: none;
+       text-align: center;
+   }
+   .student-left  .btn a{
+    background-color: moccasin;
+       text-decoration: none;
+   }
+   .student-left  .btn a:hover{
+       color: white;
+       text-decoration: none;
+   }
+   
+   
+   
+   .student-rihgt{
+       float: right;
+       width: 60%;
+   }
+   .student-rihgt table{
+       margin-top: 10px;
+       width: 100%;
+       background-color: black;
+       color: white;
+       text-align: center;
+   }
+   .student-rihgt table .btn2{
+       background-color: red;
+       /* width: 30%; */
+       margin-right: 5px;
+       float: right;
+       border-radius: 10px;
+       text-decoration: none;
+       text-align: center;
+   }
+   .student-rihgt table .btn2 a{
+    background-color: red;
+       text-decoration: none;
+   }
+   .student-rihgt table .btn2 a:hover{
+       color: red;
+       text-decoration: none;
+   }
+   
+   .student-rihgt table .btn1{
+       background-color: seashell;
+       margin-right: 5px;
+       float: right;
+       border-radius: 10px;
+       text-decoration: none;
+       text-align: center;
+
+   }
+   .student-rihgt table .btn1 a{
+    background-color: seashell;
+       text-decoration: none;
+   }
+   .student-rihgt table .btn1 a:hover{
+       color: white;
+       text-decoration: none;
+   }
+   
+   .student-rihgt .search{
+       margin-top: 20px;
+       border-radius: 10px;
+   }
+   
+   .student-rihgt .search input {
+       width: 70%;
+       border-radius: 10px;
+   }
+    
+   
+   .student-rihgt .search input{
+      
+       margin-top: 30px;
+       width: 70%;
+       margin-bottom:20px ;
+       border-radius: 10px;
+   }
+   .student-rihgt .search button{
+       
+       width:50px ;
+       margin-top: 20px;
+       border-radius: 10px;
+   } 
+   .student-rihgt .search button a:hover{
+       color: red;
+       text-decoration: none; 
+   } 
+   
